@@ -1,0 +1,54 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "avatar_like_status": false,
+    "blocked": false,
+    "blocking": false,
+    "collected": 329515,
+    "community_rule_url": "https://www.xiaohongshu.com/user/community-rule",
+    "default_collection_tab": "note",
+    "desc": "📍🇨🇦Edmonton爱美食🍜爱家居好物🏠爱带娃👦爱购物🛒\n📮873119026@qq.com",
+    "fans": 22644,
+    "feedback_account_appeal_url": "xhsdiscover://rn/feedback/account-appeal",
+    "follows": 142,
+    "gender": 1,
+    "identity_deeplink": "xhsdiscover://rn/app-settings/official/certification/details?type=2&user_id=55497b8db203d976b714f525&is_mcn=false",
+    "imageb": "https://sns-avatar-qc.xhscdn.com/avatar/63dc89f72f73a51d118c5fde.jpg?imageView2/2/w/540/format/webp",
+    "images": "https://sns-avatar-qc.xhscdn.com/avatar/63dc89f72f73a51d118c5fde.jpg?imageView2/2/w/360/format/webp",
+    "ip_location": "加拿大",
+    "is_recommend_level_illegal": false,
+    "liked": 325986,
+    "location": "加拿大",
+    "location_jump": true,
+    "ndiscovery": 1652,
+    "nickname": "姚歆冕",
+    "note_num_stat": {
+      "collected": 329515,
+      "liked": 325986,
+      "posted": 1652
+    },
+    "recommend_info_icon": "",
+    "red_id": "105768287",
+    "red_official_verified": false,
+    "share_link": "https://www.xiaohongshu.com/user/profile/55497b8db203d976b714f525",
+    "show_extra_info_button": false,
+    "tab_visible": {},
+    "tags": [
+      {
+        "icon": "http://ci.xiaohongshu.com/icons/user/gender-female-v1.png",
+        "tag_type": "info"
+      },
+      {
+        "name": "加拿大",
+        "tag_type": "location"
+      },
+      {
+        "name": "美食博主",
+        "tag_type": "profession"
+      }
+    ],
+    "userid": "55497b8db203d976b714f525"
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/xiaohongshu-social-media-api-0eab"
+}
