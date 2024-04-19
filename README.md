@@ -3,7 +3,7 @@ En [中文](./README_CN.md)
 
 # Xiaohongshu Social Media API
 
-[Go to Platform](https://www.idatariver.com/zh-cn/project/xiaohongshu-social-media-api-0eab)
+[Go to Platform](https://www.idatariver.com/project/xiaohongshu-social-media-api-0eab)
 
 
 ## Success Response Examples
