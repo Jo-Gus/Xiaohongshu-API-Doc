@@ -28,6 +28,11 @@ En [中文](./README_CN.md)
 [Success Response](./examples/success_search_notes.json)
 
 
+### Search Users By Keyword
+
+[Success Response](./examples/success_search_users.json)
+
+
 ## Error Response Examples
 
 [Param Error](./examples/failed_1001.json)

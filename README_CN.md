@@ -27,6 +27,11 @@
 [成功返回样例](./examples/success_search_notes.json)
 
 
+### 关键词搜索用户
+
+[成功返回样例](./examples/success_search_users.json)
+
+
 ## 失败返回样例
 
 [参数错误](./examples/failed_1001.json)
