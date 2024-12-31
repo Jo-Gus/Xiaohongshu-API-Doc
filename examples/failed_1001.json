@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "check_params error: required param[note_id] not exists.",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/xiaohongshu-social-media-api-0eab"
+}
